@@ -10,7 +10,7 @@ of flashcards, and no point is earned. Play continues until all flashcards
 are correctly answered, or until the student tires and quits.
 
 
-Exploration in inheritance, hashmaps and abstract classes and reading and
+Exploration in inheritance, hashmaps, abstract classes and reading and
 writing files
 
 
