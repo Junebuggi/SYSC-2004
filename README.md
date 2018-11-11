@@ -1,5 +1,4 @@
 # SYSC-2004
-Java
 
 Hello!
 
