@@ -1,6 +1,6 @@
 # Exam Prep Question
 
-Problem Statement Write a JavaFx application that allows a user to 
+Problem Statement: Write a JavaFx application that allows a user to 
 add - at a click of the button - circles and rectangles of randomly 
 generated sizes at randomly generated locations. Circles should be
 blue. Rectangles should be red. 
