@@ -4,7 +4,7 @@ import java.util.Date;
 import java.util.Random;
 /**
  *
- * @author emmaboulay
+ * @author Junebuggi
  */
 
 public class Dice{
