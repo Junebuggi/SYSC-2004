@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author emmaboulay
+ * @author Junebuggi
  */
 public class TicTacToe {
     
