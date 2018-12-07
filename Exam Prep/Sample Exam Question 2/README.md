@@ -1,4 +1,4 @@
-# Sample Exam Question 2
+# Exam Prep Question 2
 
 Stacks
 
