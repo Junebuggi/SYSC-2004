@@ -124,6 +124,7 @@ public class ConnectFourApplication extends Application implements Observer {
         } else {
             buttons[NUM_ROWS - move.getRow() - 1][move.getColumn()].setText("" + move.getColour());
             buttons[NUM_ROWS - move.getRow() - 1][move.getColumn()].setDisable(true);
+            System.out.println("Checker dropped");
 
             //An additional feature of changing the colour of the button to model the checker dropped has been added for user-functionality
             buttons[NUM_ROWS - move.getRow() - 1][move.getColumn()].setStyle("-fx-background-color:" + move.getColour() + "; -fx-text-fill: #FFFFFF");
@@ -150,6 +151,7 @@ public class ConnectFourApplication extends Application implements Observer {
         @Override
         public void handle(ActionEvent event) {
             ConnectButton b = (ConnectButton) event.getSource();
+            System.out.println(b.toString());
             location = new Point(b.getRow(), b.getColumn());
 
         }
